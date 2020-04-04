@@ -1,0 +1,9 @@
+Script started on Fri Apr  3 02:44:25 2020
+command: install
+usage: install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
+               [-o owner] file1 file2
+       install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
+               [-o owner] file1 ... fileN directory
+       install -d [-v] [-g group] [-m mode] [-o owner] directory ...
+
+Script done on Fri Apr  3 02:44:25 2020

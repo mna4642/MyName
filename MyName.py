@@ -1,9 +1,3 @@
-"""CSCI-603: Lab 1
-    Author: Michael Abdelshahid
-
-    This is a demo of my name in MIIKEY
-"""
-
 import turtle as mike
 
 # global constants for window dimensions
